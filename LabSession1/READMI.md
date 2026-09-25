@@ -37,7 +37,7 @@ Jumlah beli: 4<br>
 Anda mendapatkan diskon 10%.<br>
 
 ===== STRUK PEMBELIAN =====
-Produk        : NASI GORENG<br>
+Produk        : NASI GORENG <br>
 Jumlah        : 4<br>
 Kode kategori : M<br>
 Awal nama     : Na<br>
