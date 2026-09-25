@@ -17,7 +17,7 @@ Contoh output ketika pengguna memilih Nasi Goreng sebanyak 4:
 
 ===== SISTEM KASIR SEDERHANA =====
 
-Produk ke-1
+Produk ke-1<br>
 Nama Produk : Nasi Goreng
 Harga       : Rp15000.0
 Kategori    : M
