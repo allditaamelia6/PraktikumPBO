@@ -36,7 +36,7 @@ Pilih nomor produk (1-3): 1<br>
 Jumlah beli: 4<br>
 Anda mendapatkan diskon 10%.<br>
 
-===== STRUK PEMBELIAN =====
+===== STRUK PEMBELIAN =====<br>
 Produk        : NASI GORENG <br>
 Jumlah        : 4<br>
 Kode kategori : M<br>
