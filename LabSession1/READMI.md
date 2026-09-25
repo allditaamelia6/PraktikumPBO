@@ -18,28 +18,28 @@ Contoh output ketika pengguna memilih Nasi Goreng sebanyak 4:
 ===== SISTEM KASIR SEDERHANA =====
 
 Produk ke-1<br>
-Nama Produk : Nasi Goreng
-Harga       : Rp15000.0
-Kategori    : M
+Nama Produk : Nasi Goreng<br>
+Harga       : Rp15000.0<br>
+Kategori    : M<br>
 
-Produk ke-2
-Nama Produk : Es Teh
-Harga       : Rp5000.0
-Kategori    : M
+Produk ke-2<br>
+Nama Produk : Es Teh<br>
+Harga       : Rp5000.0<br>
+Kategori    : M<br>
 
-Produk ke-3
-Nama Produk : Kopi
-Harga       : Rp8000.0
-Kategori    : M
+Produk ke-3<br>
+Nama Produk : Kopi<br>
+Harga       : Rp8000.0<br>
+Kategori    : M<br>
 
-Pilih nomor produk (1-3): 1
-Jumlah beli: 4
-Anda mendapatkan diskon 10%.
+Pilih nomor produk (1-3): 1<br>
+Jumlah beli: 4<br>
+Anda mendapatkan diskon 10%.<br>
 
 ===== STRUK PEMBELIAN =====
-Produk        : NASI GORENG
-Jumlah        : 4
-Kode kategori : M
-Awal nama     : Na
-Panjang nama  : 11
-Total bayar   : Rp54000.0
+Produk        : NASI GORENG<br>
+Jumlah        : 4<br>
+Kode kategori : M<br>
+Awal nama     : Na<br>
+Panjang nama  : 11<br>
+Total bayar   : Rp54000.0<br>
