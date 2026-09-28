@@ -124,7 +124,7 @@ Contoh Output
 4. Pinjam Buku
 5. Kembalikan Buku
 6. Laporan Perpustakaan
-7. Keluar
+7. Keluar<br>
 ==============================<br>
 Pilih menu:
 
