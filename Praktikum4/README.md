@@ -52,21 +52,21 @@ Program ini menerapkan beberapa konsep dasar Java, yaitu:
 
 Struktur Program
 
-library
-├── exception
-│   ├── BookAlreadyBorrowedException.java
-│   ├── BookNotFoundException.java
-│   └── BorrowLimitExceededException.java
-│
-├── main
-│   └── MainApp.java
-│
-├── model
-│   ├── Book.java
-│   └── Member.java
-│
-└── service
-    └── LibraryService.java
+library<br>
+├── exception<br>
+│   ├── BookAlreadyBorrowedException.java<br>
+│   ├── BookNotFoundException.java<br>
+│   └── BorrowLimitExceededException.java<br>
+│<br>
+├── main<br>
+│   └── MainApp.java<br>
+│<br>
+├── model<br>
+│   ├── Book.java<br>
+│   └── Member.java<br>
+│<br>
+└── service<br>
+    └── LibraryService.java<br>
 
 
 Penjelasan Class
@@ -115,9 +115,9 @@ MainApp.java
 
 Contoh Output
 
-==============================
-       MINI LIBRARY SYSTEM
-==============================
+==============================<br>
+       MINI LIBRARY SYSTEM<br>
+==============================<br>
 1. Tambah Buku
 2. Daftar Buku
 3. Cari Buku
@@ -125,7 +125,7 @@ Contoh Output
 5. Kembalikan Buku
 6. Laporan Perpustakaan
 7. Keluar
-==============================
+==============================<br>
 Pilih menu:
 
 Program kemudian akan menjalankan proses sesuai menu yang dipilih oleh pengguna.
