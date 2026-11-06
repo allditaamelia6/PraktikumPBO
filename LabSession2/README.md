@@ -1,11 +1,11 @@
-Sistem Peminjaman Buku Perpustakaan
+# Sistem Peminjaman Buku Perpustakaan
 
-1. Deskripsi Sistem
-   Sistem Peminjaman Buku Perpustakaan merupakan program sederhana berbasis Java yang dibuat untuk mengelola   proses peminjaman buku oleh anggota perpustakaan. Program ini memiliki dua jenis anggota, yaitu mahasiswa dan dosen, yang masing-masing memiliki batas maksimal peminjaman berbeda.
+## 1. Deskripsi Sistem
+Sistem Peminjaman Buku Perpustakaan merupakan program sederhana berbasis Java yang dibuat untuk mengelola proses peminjaman buku oleh anggota perpustakaan. Program ini memiliki dua jenis anggota, yaitu mahasiswa dan dosen, yang masing-masing memiliki batas maksimal peminjaman berbeda.
 
-   Program ini dibuat sebagai penerapan konsep Object-Oriented Programming (OOP), yaitu Encapsulation,  Inheritance, Polymorphism, Abstract Class, dan Interface.
+Program ini dibuat sebagai penerapan konsep Object-Oriented Programming (OOP), yaitu Encapsulation, Inheritance, Polymorphism, Abstract Class, dan Interface.
 
-2. Alur Program
+## 2. Alur Program
 Berikut alur kerja program:
 
 1. Program dijalankan melalui class `Main`.
@@ -18,15 +18,15 @@ Berikut alur kerja program:
 8. Jika buku sudah dipinjam, sistem menampilkan pesan bahwa buku tidak tersedia.
 9. Program menampilkan kembali status akhir setiap buku.
 
-3. Penerapan Konsep OOP
+## 3. Penerapan Konsep OOP
 
-- Encapsulation: Menggunakan atribut `private` serta getter dan setter untuk mengatur akses data.
-- Inheritance: Class `Mahasiswa` dan `Dosen` mewarisi class `Anggota`.
-- Polymorphism: Menggunakan method overriding dan overloading serta runtime polymorphism.
-- Abstract Class: Class `Anggota` dibuat sebagai abstract class dengan abstract method `getBatasPinjam()`.
-- Interface: Interface `Peminjam` digunakan sebagai kontrak untuk method `pinjamBuku()`.
+- **Encapsulation:** Menggunakan atribut `private` serta getter dan setter untuk mengatur akses data.
+- **Inheritance:** Class `Mahasiswa` dan `Dosen` mewarisi class `Anggota`.
+- **Polymorphism:** Menggunakan method overriding dan overloading serta runtime polymorphism.
+- **Abstract Class:** Class `Anggota` dibuat sebagai abstract class dengan abstract method `getBatasPinjam()`.
+- **Interface:** Interface `Peminjam` digunakan sebagai kontrak untuk method `pinjamBuku()`.
 
-4. Output Program
+## 4. Output Program
 Ketika program dijalankan, sistem menghasilkan beberapa output, yaitu:
 
 - Menampilkan daftar buku beserta judul, penulis, dan status ketersediaannya.
@@ -35,6 +35,14 @@ Ketika program dijalankan, sistem menghasilkan beberapa output, yaitu:
 - Menampilkan proses peminjaman buku.
 - Menampilkan pesan ketika buku berhasil dipinjam atau ketika buku sudah tidak tersedia.
 - Menampilkan status akhir buku setelah proses peminjaman.
+
+## 5. Teknologi yang Digunakan
+- Bahasa Pemrograman: Java
+- IDE: NetBeans
+- Konsep: Object-Oriented Programming (OOP)
+
+## 6. Tujuan Program
+Program ini dibuat untuk memahami dan menerapkan konsep dasar OOP dalam Java melalui studi kasus sederhana yang berkaitan dengan sistem peminjaman buku perpustakaan.
 ======================================
      SISTEM PEMINJAMAN BUKU
            PERPUSTAKAAN
@@ -95,14 +103,16 @@ Data Anggota: Menampilkan identitas mahasiswa dan dosen beserta batas peminjaman
 
 Proses Peminjaman: Menampilkan proses peminjaman buku oleh mahasiswa dan dosen.
 
-Peminjaman dengan Durasi: Menampilkan contoh penggunaan method overloading dengan menambahkan parameter lama   peminjaman.
+Peminjaman dengan Durasi: Menampilkan contoh penggunaan method overloading dengan menambahkan parameter lama peminjaman.
 
 Status Akhir Buku: Menampilkan perubahan status buku setelah berhasil dipinjam.
 
-5. Teknologi yang Digunakan
+
+## 5. Teknologi yang Digunakan
 - Bahasa Pemrograman: Java
 - IDE: NetBeans
 - Konsep: Object-Oriented Programming (OOP)
 
-6. Tujuan Program
+## 6. Tujuan Program
 Program ini dibuat untuk memahami dan menerapkan konsep dasar OOP dalam Java melalui studi kasus sederhana yang berkaitan dengan sistem peminjaman buku perpustakaan.
+
