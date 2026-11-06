@@ -35,57 +35,57 @@ Ketika program dijalankan, sistem menghasilkan beberapa output, yaitu:
 - Menampilkan proses peminjaman buku.
 - Menampilkan pesan ketika buku berhasil dipinjam atau ketika buku sudah tidak tersedia.
 - Menampilkan status akhir buku setelah proses peminjaman.
-======================================
-     SISTEM PEMINJAMAN BUKU
-           PERPUSTAKAAN
-======================================
+======================================<br>
+     SISTEM PEMINJAMAN BUKU<br>
+           PERPUSTAKAAN<br>
+======================================<br>
 
---- DAFTAR BUKU ---
-Judul Buku  : Pemrograman Java
-Penulis     : Abdul Kadir
-Status      : Tersedia
+--- DAFTAR BUKU ---<br>
+Judul Buku  : Pemrograman Java<br>
+Penulis     : Abdul Kadir<br>
+Status      : Tersedia<br>
 
-Judul Buku  : Dasar Basis Data
-Penulis     : Fathansyah
-Status      : Tersedia
+Judul Buku  : Dasar Basis Data<br>
+Penulis     : Fathansyah<br>
+Status      : Tersedia<br>
 
---- DATA ANGGOTA ---
-Nama        : Alldita Amelia
-ID Anggota  : M001
-Batas Pinjam: 3 buku
+--- DATA ANGGOTA ---<br>
+Nama        : Alldita Amelia<br>
+ID Anggota  : M001<br>
+Batas Pinjam: 3 buku<br>
 
-Nama        : Bapak Andi
-ID Anggota  : D001
-Batas Pinjam: 5 buku
+Nama        : Bapak Andi<br>
+ID Anggota  : D001<br>
+Batas Pinjam: 5 buku<br>
 
---- PROSES PEMINJAMAN ---
-Jenis Anggota: Mahasiswa
-Buku berhasil dipinjam!
-Judul Buku: Pemrograman Java
-Batas Peminjaman: 3 buku
+--- PROSES PEMINJAMAN ---<br>
+Jenis Anggota: Mahasiswa<br>
+Buku berhasil dipinjam!<br>
+Judul Buku: Pemrograman Java<br>
+Batas Peminjaman: 3 buku<br>
 
-Jenis Anggota: Dosen
-Buku berhasil dipinjam!
-Judul Buku: Dasar Basis Data
-Batas Peminjaman: 5 buku
+Jenis Anggota: Dosen<br>
+Buku berhasil dipinjam!<br>
+Judul Buku: Dasar Basis Data<br>
+Batas Peminjaman: 5 buku<br>
 
---- PEMINJAMAN DENGAN DURASI ---
-Lama Peminjaman: 7 hari
-Jenis Anggota: Mahasiswa
-Maaf, buku sedang dipinjam.
+--- PEMINJAMAN DENGAN DURASI ---<br>
+Lama Peminjaman: 7 hari<br>
+Jenis Anggota: Mahasiswa<br>
+Maaf, buku sedang dipinjam.<br>
 
---- STATUS AKHIR BUKU ---
-Judul Buku  : Pemrograman Java
-Penulis     : Abdul Kadir
-Status      : Dipinjam
+--- STATUS AKHIR BUKU ---<br>
+Judul Buku  : Pemrograman Java<br>
+Penulis     : Abdul Kadir<br>
+Status      : Dipinjam<br>
 
-Judul Buku  : Dasar Basis Data
-Penulis     : Fathansyah
-Status      : Dipinjam
+Judul Buku  : Dasar Basis Data<br>
+Penulis     : Fathansyah<br>
+Status      : Dipinjam<br>
 
-======================================
-       PROGRAM SELESAI
-======================================
+======================================<br>
+       PROGRAM SELESAI<br>
+======================================<br>
 
 Keterangan Output:
 
