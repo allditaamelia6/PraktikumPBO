@@ -34,7 +34,8 @@ Ketika program dijalankan, sistem menghasilkan beberapa output, yaitu:
 - Menampilkan batas maksimal peminjaman masing-masing anggota.
 - Menampilkan proses peminjaman buku.
 - Menampilkan pesan ketika buku berhasil dipinjam atau ketika buku sudah tidak tersedia.
-- Menampilkan status akhir buku setelah proses peminjaman.
+- Menampilkan status akhir buku setelah proses peminjaman.<br>
+
 ======================================<br>
      SISTEM PEMINJAMAN BUKU<br>
            PERPUSTAKAAN<br>
