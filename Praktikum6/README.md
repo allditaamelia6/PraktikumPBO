@@ -46,59 +46,59 @@ Informasi yang ditampilkan meliputi:
 - Jumlah siswa yang lulus.
 - Jumlah siswa yang tidak lulus.
 
-**Contoh Output:**
-======================================
-         PROGRAM DATA NILAI SISWA
-======================================
-Masukkan jumlah siswa: 3
+**Contoh Output:**<br>
+======================================<br>
+         PROGRAM DATA NILAI SISWA<br>
+======================================<br>
+Masukkan jumlah siswa: 3<br>
 
-Data Siswa ke-1
---------------------------------------
-Nama siswa  : Faisal
-Nilai siswa : 88
-Status      : Lulus
+Data Siswa ke-1<br>
+--------------------------------------<br>
+Nama siswa  : Faisal<br>
+Nilai siswa : 88<br>
+Status      : Lulus<br>
 
-Data Siswa ke-2
---------------------------------------
-Nama siswa  : Bima
-Nilai siswa : 53
-Status      : Tidak Lulus
+Data Siswa ke-2<br>
+--------------------------------------<br>
+Nama siswa  : Bima<br>
+Nilai siswa : 53<br>
+Status      : Tidak Lulus<br>
 
-Data Siswa ke-3
---------------------------------------
-Nama siswa  : Gibran
-Nilai siswa : 70
-Status      : Lulus
+Data Siswa ke-3<br>
+--------------------------------------<br>
+Nama siswa  : Gibran<br>
+Nilai siswa : 70<br>
+Status      : Lulus<br>
 
-Data berhasil disimpan ke file laporan_nilai.txt
+Data berhasil disimpan ke file laporan_nilai.txt<br>
 
-======================================
-          HASIL LAPORAN NILAI
-======================================
-======================================
-             LAPORAN NILAI SISWA
-======================================
-Nama   : Faisal
-Nilai  : 88.0
-Status : Lulus
---------------------------------------
-Nama   : Bima
-Nilai  : 53.0
-Status : Tidak Lulus
---------------------------------------
-Nama   : Gibran
-Nilai  : 70.0
-Status : Lulus
---------------------------------------
+======================================<br>
+          HASIL LAPORAN NILAI<br>
+======================================<br>
+======================================<br>
+             LAPORAN NILAI SISWA<br>
+======================================<br>
+Nama   : Faisal<br>
+Nilai  : 88.0<br>
+Status : Lulus<br>
+--------------------------------------<br>
+Nama   : Bima<br>
+Nilai  : 53.0<br>
+Status : Tidak Lulus<br>
+--------------------------------------<br>
+Nama   : Gibran<br>
+Nilai  : 70.0<br>
+Status : Lulus<br>
+--------------------------------------<br>
 
-============== RINGKASAN ==============
-Rata-rata nilai kelas : 70.33333333333333
-Jumlah siswa lulus : 2
-Jumlah siswa tidak lulus : 1
-======================================
-======================================
-           PROGRAM SELESAI
-======================================
+============== RINGKASAN ==============<br>
+Rata-rata nilai kelas : 70.33333333333333<br>
+Jumlah siswa lulus : 2<br>
+Jumlah siswa tidak lulus : 1<br>
+======================================<br>
+======================================<br>
+           PROGRAM SELESAI<br>
+======================================<br>
 
 ### B. Output File Teks
 
