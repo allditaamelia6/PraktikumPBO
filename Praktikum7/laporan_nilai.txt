@@ -1,0 +1,18 @@
+========================================
+       LAPORAN NILAI MAHASISWA
+========================================
+
+DAFTAR MAHASISWA
+----------------------------------------
+Nama: BUNGA | NIM: 032501 | Nilai: 96.0 | Grade: A | Status: LULUS
+Nama: LESYA | NIM: 032502 | Nilai: 67.0 | Grade: C | Status: TIDAK LULUS
+Nama: RESTI | NIM: 032503 | Nilai: 43.0 | Grade: D | Status: TIDAK LULUS
+Nama: FATIK | NIM: 032504 | Nilai: 88.0 | Grade: A | Status: LULUS
+
+STATISTIK KELAS
+----------------------------------------
+Jumlah Mahasiswa : 4
+Rata-rata Nilai  : 73.5
+Jumlah Lulus     : 2
+Jumlah Tidak Lulus: 2
+----------------------------------------
