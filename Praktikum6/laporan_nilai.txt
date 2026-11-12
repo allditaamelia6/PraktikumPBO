@@ -1,0 +1,21 @@
+======================================
+             LAPORAN NILAI SISWA
+======================================
+Nama   : Faisal
+Nilai  : 88.0
+Status : Lulus
+--------------------------------------
+Nama   : Bima
+Nilai  : 53.0
+Status : Tidak Lulus
+--------------------------------------
+Nama   : Gibran
+Nilai  : 70.0
+Status : Lulus
+--------------------------------------
+
+============== RINGKASAN ==============
+Rata-rata nilai kelas : 70.33333333333333
+Jumlah siswa lulus : 2
+Jumlah siswa tidak lulus : 1
+======================================

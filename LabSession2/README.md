@@ -35,6 +35,19 @@ Ketika program dijalankan, sistem menghasilkan beberapa output, yaitu:
 - Menampilkan proses peminjaman buku.
 - Menampilkan pesan ketika buku berhasil dipinjam atau ketika buku sudah tidak tersedia.
 - Menampilkan status akhir buku setelah proses peminjaman.<br>
+- Menampilkan status akhir buku setelah proses peminjaman.
+
+## 5. Teknologi yang Digunakan
+- Bahasa Pemrograman: Java
+- IDE: NetBeans
+- Konsep: Object-Oriented Programming (OOP)
+
+## 6. Tujuan Program
+Program ini dibuat untuk memahami dan menerapkan konsep dasar OOP dalam Java melalui studi kasus sederhana yang berkaitan dengan sistem peminjaman buku perpustakaan.
+======================================
+     SISTEM PEMINJAMAN BUKU
+           PERPUSTAKAAN
+======================================
 
 ======================================<br>
      SISTEM PEMINJAMAN BUKU<br>
@@ -99,6 +112,7 @@ Proses Peminjaman: Menampilkan proses peminjaman buku oleh mahasiswa dan dosen.
 Peminjaman dengan Durasi: Menampilkan contoh penggunaan method overloading dengan menambahkan parameter lama peminjaman.
 
 Status Akhir Buku: Menampilkan perubahan status buku setelah berhasil dipinjam.
+
 
 ## 5. Teknologi yang Digunakan
 - Bahasa Pemrograman: Java
