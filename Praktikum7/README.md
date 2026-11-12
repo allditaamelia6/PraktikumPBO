@@ -69,73 +69,73 @@ Adapun hasil yang ditampilkan meliputi:
 
 Selain ditampilkan pada console, seluruh hasil rekapitulasi juga disimpan secara permanen ke dalam file teks `laporan_nilai.txt`. File tersebut dapat dibuka kembali untuk melihat data mahasiswa dan statistik nilai tanpa harus memasukkan data dari awal selama file tidak diubah atau dihapus.
 
-### Contoh Output Program
+Contoh Output Program<br>
 
-========================================
-     SISTEM PENGELOLAAN NILAI MAHASISWA
-========================================
-Masukkan jumlah mahasiswa: 4
+========================================<br>
+     SISTEM PENGELOLAAN NILAI MAHASISWA<br>
+========================================<br>
+Masukkan jumlah mahasiswa: 4<br>
 
-Data Mahasiswa ke-1
-Masukkan Nama: Bunga
-Masukkan NIM: 032501
-Masukkan Nilai: 96
-Data mahasiswa berhasil ditambahkan!
+Data Mahasiswa ke-1<br>
+Masukkan Nama: Bunga<br>
+Masukkan NIM: 032501<br>
+Masukkan Nilai: 96<br>
+Data mahasiswa berhasil ditambahkan!<br>
 
-Data Mahasiswa ke-2
-Masukkan Nama: Lesya
-Masukkan NIM: 032502
-Masukkan Nilai: 67
-Data mahasiswa berhasil ditambahkan!
+Data Mahasiswa ke-2<br>
+Masukkan Nama: Lesya<br>
+Masukkan NIM: 032502<br>
+Masukkan Nilai: 67<br>
+Data mahasiswa berhasil ditambahkan!<br>
 
-Data Mahasiswa ke-3
-Masukkan Nama: Resti
-Masukkan NIM: 032503
-Masukkan Nilai: 43
-Data mahasiswa berhasil ditambahkan!
+Data Mahasiswa ke-3<br>
+Masukkan Nama: Resti<br>
+Masukkan NIM: 032503<br>
+Masukkan Nilai: 43<br>
+Data mahasiswa berhasil ditambahkan!<br>
 
-Data Mahasiswa ke-4
-Masukkan Nama: Fatik
-Masukkan NIM: 032504
-Masukkan Nilai: 88
-Data mahasiswa berhasil ditambahkan!
+Data Mahasiswa ke-4<br>
+Masukkan Nama: Fatik<br>
+Masukkan NIM: 032504<br>
+Masukkan Nilai: 88<br>
+Data mahasiswa berhasil ditambahkan!<br>
 
-========================================
-          REKAPITULASI NILAI
-========================================
-Nama: BUNGA | NIM: 032501 | Nilai: 96.0 | Grade: A | Status: LULUS
-Nama: LESYA | NIM: 032502 | Nilai: 67.0 | Grade: C | Status: TIDAK LULUS
-Nama: RESTI | NIM: 032503 | Nilai: 43.0 | Grade: D | Status: TIDAK LULUS
-Nama: FATIK | NIM: 032504 | Nilai: 88.0 | Grade: A | Status: LULUS
-----------------------------------------
-Jumlah Mahasiswa : 4
-Rata-rata Nilai  : 73.5
-Jumlah Lulus     : 2
-Jumlah Tidak Lulus: 2
+========================================<br>
+          REKAPITULASI NILAI<br>
+========================================<br>
+Nama: BUNGA | NIM: 032501 | Nilai: 96.0 | Grade: A | Status: LULUS<br>
+Nama: LESYA | NIM: 032502 | Nilai: 67.0 | Grade: C | Status: TIDAK LULUS<br>
+Nama: RESTI | NIM: 032503 | Nilai: 43.0 | Grade: D | Status: TIDAK LULUS<br>
+Nama: FATIK | NIM: 032504 | Nilai: 88.0 | Grade: A | Status: LULUS<br>
+----------------------------------------<br>
+Jumlah Mahasiswa : 4<br>
+Rata-rata Nilai  : 73.5<br>
+Jumlah Lulus     : 2<br>
+Jumlah Tidak Lulus: 2<br>
 
-Laporan berhasil disimpan ke file laporan_nilai.txt
+Laporan berhasil disimpan ke file laporan_nilai.txt<br>
 
-========================================
-       MEMBACA FILE LAPORAN
-========================================
-========================================
-       LAPORAN NILAI MAHASISWA
-========================================
+========================================<br>
+       MEMBACA FILE LAPORAN<br>
+========================================<br>
+========================================<br>
+       LAPORAN NILAI MAHASISWA<br>
+========================================<br>
 
-DAFTAR MAHASISWA
-----------------------------------------
-Nama: BUNGA | NIM: 032501 | Nilai: 96.0 | Grade: A | Status: LULUS
-Nama: LESYA | NIM: 032502 | Nilai: 67.0 | Grade: C | Status: TIDAK LULUS
-Nama: RESTI | NIM: 032503 | Nilai: 43.0 | Grade: D | Status: TIDAK LULUS
-Nama: FATIK | NIM: 032504 | Nilai: 88.0 | Grade: A | Status: LULUS
+DAFTAR MAHASISWA<br>
+----------------------------------------<br>
+Nama: BUNGA | NIM: 032501 | Nilai: 96.0 | Grade: A | Status: LULUS<br>
+Nama: LESYA | NIM: 032502 | Nilai: 67.0 | Grade: C | Status: TIDAK LULUS<br>
+Nama: RESTI | NIM: 032503 | Nilai: 43.0 | Grade: D | Status: TIDAK LULUS<br>
+Nama: FATIK | NIM: 032504 | Nilai: 88.0 | Grade: A | Status: LULUS<br>
 
-STATISTIK KELAS
-----------------------------------------
-Jumlah Mahasiswa : 4
-Rata-rata Nilai  : 73.5
-Jumlah Lulus     : 2
-Jumlah Tidak Lulus: 2
-----------------------------------------
+STATISTIK KELAS<br>
+----------------------------------------<br>
+Jumlah Mahasiswa : 4<br>
+Rata-rata Nilai  : 73.5<br>
+Jumlah Lulus     : 2<br>
+Jumlah Tidak Lulus: 2<br>
+----------------------------------------<br>
 
 Program selesai dijalankan.
 
