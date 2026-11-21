@@ -2,9 +2,9 @@
 
 Praktikum Pemrograman Berorientasi Objek (PBO) Kelas 3B, Pertemuan 11 (Multithreading) dan Pertemuan 12 (GUI Programming).
 
-**Nama:** Alldita Putri Amelia
-**NIM:** L0325037
-**Kelas:** PBO 3B
+**Nama:** Alldita Putri Amelia<br>
+**NIM:** L0325037<br>
+**Kelas:** PBO 3B<br>
 
 ---
 
@@ -62,7 +62,8 @@ Pengujian dilakukan di `MainKasir` dengan data berikut:
 
 **Screenshot:**
 
-(tempel screenshot Tahap 1 di sini)
+<img width="298" height="244" alt="Screenshot 2026-11-20 205033" src="https://github.com/user-attachments/assets/ec23dfcf-1e2d-4d2c-9560-a303e0064110" />
+
 
 ---
 
@@ -76,13 +77,9 @@ Pada `MainKasir`, dibuat dua kasir (Dina dan Eko) lalu keduanya dijalankan denga
 
 **Catatan percobaan:** Program dijalankan 2 kali dan urutan output **tidak selalu sama**. Hal ini terjadi karena kedua thread berjalan bersamaan dan urutan eksekusinya ditentukan oleh penjadwal (scheduler) JVM dan sistem operasi, bukan oleh urutan pemanggilan `start()`.
 
-**Screenshot (Run 1):**
+**Screenshot (Run 1 dan Run 2):**
+<img width="298" height="244" alt="Screenshot 2026-11-20 205033" src="https://github.com/user-attachments/assets/ef865e1a-642e-4c78-9bb6-f3f4e4d9a01f" />
 
-(tempel screenshot run pertama di sini)
-
-**Screenshot (Run 2):**
-
-(tempel screenshot run kedua di sini)
 
 ---
 
@@ -104,15 +101,18 @@ Class `KasirFrame` meng-extend `JFrame` dengan layout `null` (posisi diatur manu
 
 **Screenshot (tampilan dan hasil total):**
 
-(tempel screenshot Tahap 3 di sini)
+<img width="273" height="331" alt="Screenshot 2026-11-20 205828" src="https://github.com/user-attachments/assets/6a8ce16f-251f-4b60-ae18-4bd6dba66c79" />
+
 
 **Screenshot (validasi field kosong):**
 
-(tempel screenshot validasi field kosong di sini)
+<img width="340" height="334" alt="Screenshot 2026-11-20 210129" src="https://github.com/user-attachments/assets/aace4153-69f7-4987-b623-0111cb15c839" />
+
 
 **Screenshot (validasi input bukan angka):**
 
-(tempel screenshot validasi bukan angka di sini)
+<img width="351" height="329" alt="Screenshot 2026-11-20 210301" src="https://github.com/user-attachments/assets/3c39acb2-6b2c-4b92-b7b2-696c2689afd9" />
+
 
 ---
 
@@ -133,11 +133,13 @@ Penantian 2 detik dilakukan di thread baru (`new Thread(...).start()`) agar thre
 
 **Screenshot (saat mencetak):**
 
-(tempel screenshot status "Mencetak struk..." di sini)
+<img width="284" height="332" alt="Screenshot 2026-11-20 210014" src="https://github.com/user-attachments/assets/c55a9434-6ef1-46bb-bee3-404966060c67" />
+
 
 **Screenshot (selesai):**
 
-(tempel screenshot status "Struk selesai" di sini)
+<img width="285" height="329" alt="Screenshot 2026-11-20 210035" src="https://github.com/user-attachments/assets/53bb281d-ed1b-4414-b3c9-45c1012cf7d5" />
+
 
 ---
 
