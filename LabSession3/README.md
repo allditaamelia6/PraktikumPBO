@@ -78,6 +78,7 @@ Pada `MainKasir`, dibuat dua kasir (Dina dan Eko) lalu keduanya dijalankan denga
 **Catatan percobaan:** Program dijalankan 2 kali dan urutan output **tidak selalu sama**. Hal ini terjadi karena kedua thread berjalan bersamaan dan urutan eksekusinya ditentukan oleh penjadwal (scheduler) JVM dan sistem operasi, bukan oleh urutan pemanggilan `start()`.
 
 **Screenshot (Run 1 dan Run 2):**
+
 <img width="298" height="244" alt="Screenshot 2026-11-20 205033" src="https://github.com/user-attachments/assets/ef865e1a-642e-4c78-9bb6-f3f4e4d9a01f" />
 
 
